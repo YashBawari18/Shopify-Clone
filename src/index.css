@@ -1,0 +1,21 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.scale{
+ transition: 0.3s;
+}
+.scale:hover{
+  transform: scale(1.1);
+}
+.login-box{
+  height: 300px;
+  width: 500px;
+  border: 2px dashed;
+  border-radius: 10px;
+}
+.log-but{
+  height: 50px;
+  width: 200px;
+  border-radius: 25px;
+}
