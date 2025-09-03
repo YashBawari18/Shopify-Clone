@@ -1,12 +1,41 @@
-# React + Vite
+# Shopify Clone 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple e-commerce web app built with **React + Bootstrap**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive Navbar (Shopify at left, search bar in center, links at right)
+- Product listing page
+- Categories page
+- Login page
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Bootstrap 5
+- React Router
+
+## 📂 Project Setup
+
+Clone the repo:
+
+```bash
+git clone https://github.com/YashBawari18/Shopify-Clone.git
+cd Shopify-Clone
+npm install
+npm start
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./assests/Home.png)
+
+### 📑 Product
+![Product](./assests/Product.png)
+
+### 🏠 Categories
+![Categories](./assests/Categories.png)
+
+### 📑 Login
+![Login](./assests/Login.png)
+```
