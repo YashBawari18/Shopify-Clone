@@ -28,14 +28,18 @@ npm start
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./assests/Home.png)
+
+![Homepage](./src/assets/Home.png)
 
 ### 📑 Product
-![Product](./assests/Product.png)
+
+![Product](./src/assets/Product.png)
 
 ### 🏠 Categories
-![Categories](./assests/Categories.png)
+
+![Categories](./src/assets/Categories.png)
 
 ### 📑 Login
-![Login](./assests/Login.png)
+
+![Login](./src/assets/Login.png)
 ```
