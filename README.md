@@ -25,23 +25,8 @@ cd Shopify-Clone
 npm install
 npm start
 
-## 📸 Screenshots
-
-### 🏠 Homepage
-
+📸 Screenshots
+🏠 Homepage
 ![Homepage](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Home.png)
 
-### 📑 Product
-
-![Product](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Product.png)
-
-
-### 🏠 Categories
-
-![Categories](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Categories.png)
-
-
-### 📑 Login
-
-![Login](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Login.png)
 ```
