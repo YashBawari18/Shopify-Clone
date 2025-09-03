@@ -29,17 +29,19 @@ npm start
 
 ### 🏠 Homepage
 
-![Homepage](./src/assets/Home.png)
+![Homepage](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Home.png)
 
 ### 📑 Product
 
-![Product](./src/assets/Product.png)
+![Product](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Product.png)
+
 
 ### 🏠 Categories
 
-![Categories](./src/assets/Categories.png)
+![Categories](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Categories.png)
+
 
 ### 📑 Login
 
-![Login](./src/assets/Login.png)
+![Login](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Login.png)
 ```
