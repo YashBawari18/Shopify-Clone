@@ -24,9 +24,4 @@ git clone https://github.com/YashBawari18/Shopify-Clone.git
 cd Shopify-Clone
 npm install
 npm start
-
-📸 Screenshots
-🏠 Homepage
-![Homepage](https://raw.githubusercontent.com/YashBawari18/Shopify-Clone/main/src/assets/Home.png)
-
 ```
