@@ -1797,7 +1797,7 @@ export default function Products() {
                       <h5 className="card-title">{v.title}</h5>
                       <p className="card-text">{v.description}</p>
                       <a href="#" className="btn btn-primary">
-                        Go somewhere
+                        {v.price}
                       </a>
                     </div>
                   </div>
